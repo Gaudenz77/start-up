@@ -11,8 +11,6 @@
 * seventh
 -----
 ## Next Step
-* line
-* line
 * one more line
 * again line time!
 * again line times 2!
