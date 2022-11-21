@@ -19,6 +19,7 @@
 * LAst line now
 * last back
 * send to github
+* bring synch
 
 
 
